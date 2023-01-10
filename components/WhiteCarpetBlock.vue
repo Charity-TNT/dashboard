@@ -26,13 +26,8 @@
                     </div>
                 </div>
                 <div class="mb-3">
-                    <div class="row">
-                        <div class="col text-center">
-                            <h6>Staked TNT <small class="text-muted">{{ stakedAmount }}</small></h6>
-                        </div>
-                        <div class="col text-center">
-                            <h6>Available Rewards <small class="text-muted">21.3</small></h6>
-                        </div>
+                    <div class="text-center">
+                        <h6>Available Rewards <small class="text-muted">21.3</small></h6>
                     </div>
                     <div class="row">
                         <div class="col">
@@ -47,6 +42,7 @@
         </div>
         <div class="text-center card-footer">
             <h6>White Carpet Line Position <small class="text-muted">112</small></h6>
+            <small class="text-muted">Staked TNT {{ stakedAmount }}</small>
         </div>
     </div>
 </template>

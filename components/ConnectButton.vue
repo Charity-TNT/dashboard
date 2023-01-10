@@ -1,18 +1,20 @@
 <template>
     <span>
-        <button @click="comingSoon" class="btn btn-sm btn-primary">Connect</button>
+        <button @click="connect" class="btn btn-sm btn-primary">Connect</button>
     </span>
 </template>
 
 <script>
+
 export default {
     setup () {
-        const comingSoon = () => {
-            alert('Coming soon!');
-        }
+
+        const connect = async () => {
+            alert("Coming soon!");
+        };
 
         return {
-            comingSoon,
+            connect,
         }
     }
 }

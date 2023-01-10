@@ -14,12 +14,8 @@
             <div class="col-md-6 mb-4">
                 <RedCarpetBlock/>
             </div>
-            <div class="col-md-6 mb-4">
-                <MarketplaceBlock/>
-            </div>
-            <div class="col-md-6 mb-4">
-                <LeaderboardBlock/>
-            </div>
         </div>
+        <MarketplaceBlock class="mb-4"/>
+        <LeaderboardBlock class="mb-4"/>
     </div>
 </template>

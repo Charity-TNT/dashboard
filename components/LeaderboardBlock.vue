@@ -27,44 +27,44 @@
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row">0x9d...739122</th>
-                                <td>750.1110</td>
+                                <th scope="row">Ronald Raygun</th>
+                                <td>750.1110 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x4e...BD91e5</th>
-                                <td>740.1312</td>
+                                <td>740.1312 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x85...2EF665</th>
-                                <td>699.9918</td>
+                                <td>699.9918 USDC</td>
                             </tr>
                             <tr>
-                                <th scope="row">0x58...124687</th>
-                                <td>501.1239</td>
+                                <th scope="row">Dick Withers</th>
+                                <td>501.1239 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x8B...58b8D8</th>
-                                <td>217.0000</td>
+                                <td>217.0000 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x9d...739122</th>
-                                <td>750.1110</td>
+                                <td>750.1110 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x4e...BD91e5</th>
-                                <td>740.1312</td>
+                                <td>740.1312 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x85...2EF665</th>
-                                <td>699.9918</td>
+                                <td>699.9918 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x58...124687</th>
-                                <td>501.1239</td>
+                                <td>501.1239 USDC</td>
                             </tr>
                             <tr>
                                 <th scope="row">0x8B...58b8D8</th>
-                                <td>217.0000</td>
+                                <td>217.0000 USDC</td>
                             </tr>
                         </tbody>
                     </table>

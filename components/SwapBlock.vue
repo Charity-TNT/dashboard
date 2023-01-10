@@ -8,7 +8,10 @@
                     <label for="from">From</label>
                     <div class="input-group">
                         <div class="input-group-prepend">
-                            <div class="input-group-text"><strong>{{ fromCurrency }}</strong></div>
+                            <select>
+                                <option>USDC</option>
+                                <option>ETH</option>
+                            </select>
                         </div>
                         <input v-model="amount" class="form-control inline" id="from"/>
                         <div class="input-group-append">

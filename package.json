@@ -18,5 +18,9 @@
     "vue-template-compiler": "^2.6.14",
     "webpack": "^4.46.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@web3-onboard/injected-wallets": "^2.4.0",
+    "@web3-onboard/vue": "^2.4.3",
+    "ethers": "^5.7.2"
+  }
 }
